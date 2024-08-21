@@ -4,9 +4,8 @@
 #xhofe/alist:latest
 #circleci/jdk8
 openjdk:8-jdk-alpine
-mysql
 mysql:5.7.43
 nginx:1.22
-
+redis:4.0.11
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
