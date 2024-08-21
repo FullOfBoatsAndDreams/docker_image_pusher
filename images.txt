@@ -5,12 +5,16 @@
 #circleci/jdk8
 openjdk:8-jdk-alpine
 mysql:5.7.43
+mysql:8.4.2
+mysql:8.0.39
 nginx:1.22
 redis:4.0.11
 elasticsearch:8.13.4
 logstash:8.13.4
 kibana:8.13.4
-mongodb:4.4.19
+mongodb:latest
+mongodb:1.8.0
+
 
 
 #支持指定架构
