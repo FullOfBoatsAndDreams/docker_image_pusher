@@ -2,9 +2,9 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-circleci/jdk8
-openjdk:8-jdk
-mysql:5.7
+#circleci/jdk8
+openjdk
+mysql
 nginx:1.22
 
 #支持指定架构
