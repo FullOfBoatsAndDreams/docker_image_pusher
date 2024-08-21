@@ -12,8 +12,9 @@ redis:4.0.11
 elasticsearch:8.13.4
 logstash:8.13.4
 kibana:8.13.4
-mongodb:latest
-mongodb:1.8.0
+mongo:4.4
+mongo
+
 
 
 
