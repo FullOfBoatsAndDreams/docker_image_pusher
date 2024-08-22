@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #circleci/jdk8
 openjdk:8-jdk-alpine
-jdk:1.8
+jdk:8
 mysql:5.7.43
 mysql:8.4.2
 mysql:8.0.39
