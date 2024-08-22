@@ -4,7 +4,6 @@
 #xhofe/alist:latest
 #circleci/jdk8
 openjdk:8-jdk-alpine
-java:8
 mysql:5.7.43
 mysql:8.4.2
 mysql:8.0.39
@@ -15,6 +14,8 @@ logstash:8.13.4
 kibana:8.13.4
 mongo:4.4
 mongo
+Alpine
+Ubuntu
 
 
 
