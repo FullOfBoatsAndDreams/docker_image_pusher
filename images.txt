@@ -16,6 +16,10 @@ mongo:4.4
 mongo
 alpine
 ubuntu
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-agent2:latest
+zabbix/zabbix-web-service:latest
 
 
 
