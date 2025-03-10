@@ -23,8 +23,16 @@ zabbix/zabbix-web-service:latest
 zabbix/zabbix-web-apache-mysql:latest
 zabbix/zabbix-snmptraps:latest
 zabbix/zabbix-agent:latest
+zabbix/zabbix-java-gateway:latest
 
-
+zabbix/zabbix-server-mysql:6.0
+zabbix/zabbix-web-nginx-mysql:6.0
+zabbix/zabbix-agent2:6.0
+zabbix/zabbix-web-service:6.0
+zabbix/zabbix-web-apache-mysql:6.0
+zabbix/zabbix-snmptraps:6.0
+zabbix/zabbix-agent:6.0
+zabbix/zabbix-java-gateway:6.0
 
 
 #支持指定架构
