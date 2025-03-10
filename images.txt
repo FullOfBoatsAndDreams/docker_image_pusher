@@ -20,6 +20,10 @@ zabbix/zabbix-server-mysql:latest
 zabbix/zabbix-web-nginx-mysql:latest
 zabbix/zabbix-agent2:latest
 zabbix/zabbix-web-service:latest
+zabbix/zabbix-docker:latest
+zabbix/zabbix-web-apache-mysql:latest
+zabbix/zabbix-snmptraps:latest
+zabbix/zabbix-agent:latest
 
 
 
